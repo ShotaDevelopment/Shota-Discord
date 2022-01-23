@@ -6,5 +6,5 @@ description 'Shota-Discord'
 
 shared_script 'config.lua'
 server_scripts {
-  'server/sv_chat.lua'
+  'sv_chat.lua'
 }
